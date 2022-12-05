@@ -1,1 +1,1 @@
-# bruiseduck prepare data and train model with Tensorflow2
+# bruiseduck train model with Tensorflow2
